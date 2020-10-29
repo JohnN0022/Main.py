@@ -283,5 +283,5 @@ while player_answer != 1 and player_answer != 2:
     else:
         player_answer = input("Invalid!, Try again. Yes [1] or No [2]: ")
 
-# import time
-# import random
+ #import time
+#import random
